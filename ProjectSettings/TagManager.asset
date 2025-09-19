@@ -2,35 +2,11 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
-<<<<<<< Updated upstream
-  serializedVersion: 2
-  tags: []
-=======
->>>>>>> Stashed changes
-=======
-  serializedVersion: 2
-  tags: []
-=======
->>>>>>> Stashed changes
   serializedVersion: 3
   tags:
   - Floor
-  - Water
-  - Base
-  - Cactus
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-=======
   - Ice
->>>>>>> Stashed changes
->>>>>>> Stashed changes
-=======
-  - Ice
->>>>>>> Stashed changes
->>>>>>> Stashed changes
+  - Toucher
   layers:
   - Default
   - TransparentFX
